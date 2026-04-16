@@ -2,8 +2,6 @@
 
 V₂O₅-WO₃/TiO₂ 허니컴형 (그리고 Plate-type) SCR 촉매 설계 · 계산 · 설계 의뢰서 자동 작성을 위한 Next.js 웹 앱.
 
-> 박삼식 박사(주식회사 나노 연구소장, 경상대 무기재료공학 Ph.D.)를 대상 사용자로 설계한 엑셀 세대 친화적 엔지니어링 도구.
-
 라이브: **https://n-ightmar-e.github.io/test_Catal_1/**
 
 ---
