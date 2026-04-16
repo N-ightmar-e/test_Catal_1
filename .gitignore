@@ -17,6 +17,11 @@
 /.next/
 /out/
 
+# OMC / local dev artifacts (not part of the app)
+/.omc/
+/.claude/
+
+
 # production
 /build
 
